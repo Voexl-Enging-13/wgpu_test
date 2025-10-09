@@ -1,0 +1,12 @@
+[package]
+name = "wgpu_test"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winit = "*"
+anyhow = "1.0"
+env_logger = "*"
+log = "0.4"
+wgpu = "27.0.0"
+pollster = "*"
